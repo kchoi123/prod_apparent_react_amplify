@@ -1,0 +1,14 @@
+/* Stores all custom css for kid profile */
+.edit-kid-btn{
+    background-color: #5dc3d0;
+    color: whitesmoke;
+}
+
+.remove-kid-btn {
+    background-color: rgb(248, 108, 43);
+    color: whitesmoke;
+}
+
+.kid-section-title {
+    font-size: 1.8rem;
+}
